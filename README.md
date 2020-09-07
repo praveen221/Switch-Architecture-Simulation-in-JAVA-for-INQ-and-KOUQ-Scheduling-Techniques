@@ -1,0 +1,2 @@
+# Switch-Architecture-Simulation-in-JAVA-for-INQ-and-KOUQ-Scheduling-Techniques
+The following program simulates the inside architecture of a network switch. The system generates random traffic at every arrival port at each time stamps and makes a input port to output port transaction at every time stamp. Given inputs about scheduling technique to be used, buffer size etc as input (refer read me file) the program outputs various performance metrics like AVG PKT DELAY, DROP PROBABILITY etc. (Refer Report))
